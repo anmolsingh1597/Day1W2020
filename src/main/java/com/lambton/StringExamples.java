@@ -78,7 +78,7 @@ public class StringExamples {
 //        alphaMain();
     }
 
-    private static void alphaMain() {
+  /*  private static void alphaMain() {
         int alphabet;
         String c = new String("Welcome To Toronto");
         System.out.println(c);
@@ -98,7 +98,7 @@ public class StringExamples {
         }
 
 
-    }
+    }*/
 
     private static void printStrings() {
          int i,j,count=0,icnt=0;
@@ -134,7 +134,7 @@ public class StringExamples {
 
 
 
-    public static void method() {
+   /* public static void method() {
         String s = new String("Welcome to Toronto");
         char[] c = s.toCharArray();
         int q = s.length();
@@ -161,7 +161,7 @@ public class StringExamples {
             System.out.println(" ");
         }
     }
-
+*/
 
 /*public static void function(){
  String c=new String("Welcome To Toronto");
@@ -184,14 +184,6 @@ public class StringExamples {
      }
  System.out.println();
 }*/
-//          for (int j=i; j>=0; j--) {
-//              System.out.print(s.charAt(j));
-//              System.out.println(c[j]);
-//              count = count++;
-//              j = j++;
-//
-//
-//              System.out.println("");
 
 
           }
